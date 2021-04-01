@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project1", "Project1\Projec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Handicraft Calculator", "Handicraft Calculator\Handicraft Calculator.csproj", "{DC64D0B6-9317-447F-B49E-381634432149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enter_Array", "Enter_Array\Enter_Array.csproj", "{0A4C0742-1BE5-48F9-8FBB-0930D51018D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second_Maksimum", "Enter_Array\Second_Maksimum.csproj", "{0A4C0742-1BE5-48F9-8FBB-0930D51018D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
